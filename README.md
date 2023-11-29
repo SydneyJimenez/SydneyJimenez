@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sydney Jimenez
 
-Welcome to my GitHub profile! I'm passionate about coding and database management, always eager to tackle complex problems and craft elegant solutions. Currently pursuing a BS in Information Technology at New Era University.
+Passionate student programmer pushing technology boundaries to develop innovative solutions. I collaborate, listen, and exceed expectations. Constantly growing, embracing feedback, and staying current with industry trends. With UX expertise, I create delightful software. Let's fuel innovation and shape the future together, whether you're a student, startup, or organization.
 
 ## Education
 - **BS Information Technology**
