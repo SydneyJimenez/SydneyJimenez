@@ -19,7 +19,7 @@ Passionate student programmer pushing technology boundaries to develop innovativ
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Reach Me
-- LinkedIn: [LinkedIn Profile](https://sydneyjimenez3796ab2a2)
+- LinkedIn: [Sydney Jimenez](https://sydneyjimenez3796ab2a2)
 - Email: sydneyjimenez0030@gmail.com
 
 Feel free to connect with me! Let's code and innovate together. 🚀
