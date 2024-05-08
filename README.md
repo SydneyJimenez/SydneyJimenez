@@ -12,6 +12,8 @@ Passionate student programmer pushing technology boundaries to develop innovativ
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFB24FFB33BD7701943B90EF117FB55D468BB6EFE9D78B2FC94BFF6A5613AD5E)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EBB4BFE742387BE67DD9408B361B96752C0F8AD3ABFB9E8087A14BFCBD934D0A)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4ce64d154ba3483c8a7c7fa297cea19b)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/18a311579f25448db8a2bc6f373f67d0)
+
 
 ## Skills
 - **Programming:** Java, Javascript
